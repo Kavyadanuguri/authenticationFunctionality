@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.header-bg-container {
+  display: flex;
+  justify-content: center;
+}
+.header-p1 {
+  font-family: 'roboto';
+  margin-right: 20px;
+  margin-left: 20px;
+  font-size: 20px;
+}
